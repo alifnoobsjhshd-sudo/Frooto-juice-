@@ -1,0 +1,6 @@
+{
+  "name": "Frooto - Premium Mango Juice",
+  "description": "An interactive 3D landing page for Frooto mango juice, featuring scroll-animated video frame sequences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
